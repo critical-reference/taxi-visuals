@@ -1,0 +1,6 @@
+pyarrow
+fastparquet
+matplotlib
+sqlalchemy
+pandas
+numpy
